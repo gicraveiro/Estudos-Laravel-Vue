@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <painel titulo="Painel! Dentro da row e col do container (col-md-10 col-md-offset-1) ">            
+                <painel titulo="Painel! Dentro da row e col do container (col-md-10 col-md-offset-1) " cor="blue">            
                     Aqui é o conteúdo
 
                     <caixa qtd="80" titulo="Caixa dentro da row e col do container, mas fora da row do painel 1" url="#" cor="pink" icone="ion ion-pie-graph"></caixa>
